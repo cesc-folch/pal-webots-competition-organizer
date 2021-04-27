@@ -1,1 +1,2 @@
 https://github.com/cesc-folch/pal-webots-competition-participant-2
+https://github.com/daniel-lopez-puig/pal-webots-competition-participant-template
